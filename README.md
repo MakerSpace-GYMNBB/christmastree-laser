@@ -1,2 +1,2 @@
-- "for_production.svg" enthält die gesamte Platte zu Lasern
+- "for_production.svg" enthält die gesamte Platte zum Lasern
 - "Weihnachtsbaum2PartsBetter.svg" enthält den einzelnen Weihnachtsbaum zum lasern
